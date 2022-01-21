@@ -1,5 +1,5 @@
 var numberofdrums = document.querySelectorAll(".drum").length;
-console.log(numberofdrums);
+// console.log(numberofdrums);
 
 // button check
 
